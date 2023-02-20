@@ -1,4 +1,4 @@
-                                                                   # Automation Web: Despegar.com.ar
+# Automation Web: Despegar.com.ar
 
 **Automation script with Python and Selenium Webdriver, that runs through the main flow of the Despegar.com.ar page, interacting with all the main features of the site.**
 
@@ -23,7 +23,7 @@ This repository can be cloned on a regular basis, to run on any local machine.
 
 ## Files:
 
-***The project is composed of 3 main files:***
+######The project is composed of 3 main files:
 
 **Despegar_main.py**
 
