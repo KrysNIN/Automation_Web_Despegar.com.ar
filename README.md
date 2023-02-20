@@ -10,7 +10,7 @@ This repository can be cloned on a regular basis, to run on any local machine.
 
 ## Prerequisites:
 
-**Software required to run the script**
+***Software required to run the script***
 
 - Python V3.10 - https://www.python.org/downloads/
 
