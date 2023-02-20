@@ -8,13 +8,13 @@ This repository can be cloned on a regular basis, to run on any local machine.
 
 ## Prerequisites:
 
-Software required to run the script
+**Software required to run the script**
 
-**- Python V3.10 -** https://www.python.org/downloads/
+- Python V3.10 - https://www.python.org/downloads/
 
-**- Selenium Webdriver (ChromeDriver V110.0.5481.77) -** https://chromedriver.chromium.org/downloads
+- Selenium Webdriver (ChromeDriver V110.0.5481.77) - https://chromedriver.chromium.org/downloads
 
-**- Google Chrome V110.0.5481.100 -** https://www.google.com/intl/es_es/chrome/?brand=YTUH&gclsrc=ds&gclsrc=ds
+- Google Chrome V110.0.5481.100 - https://www.google.com/intl/es_es/chrome/?brand=YTUH&gclsrc=ds&gclsrc=ds
 
-**- VSCode (Optional) -** https://code.visualstudio.com/
+- VSCode (Optional) - https://code.visualstudio.com/
 
