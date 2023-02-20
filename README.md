@@ -42,3 +42,15 @@ Finally, the get file will be in charge of searching for the endpoint against wh
 
  
 ## Test Cases:
+
+***The test cases are 12, and are composed as follows:***
+
+**Home**
+
+This test case is the opening one, and it will verify that the home page is displayed when the "Home" button is pressed.
+
+**Accomodations**
+
+In this case, the functionality "Accomodations" will be checked, which consists of selecting the functionality, and entering a destination, which in this case will be "Cordoba", by means of the autocomplete field, and selecting the first index in the list.
+
+Once the destination is selected, the flow will continue by selecting the date of entry, and the date of departure, and then search the available options.
