@@ -45,11 +45,11 @@ Finally, the get file will be in charge of searching for the endpoint against wh
 
 ***The test cases are 12, and are composed as follows:***
 
-**- Test_Home:**
+```- Test_Home:```
 
 This test case is the opening one, and it will verify that the home page is displayed when the "Home" button is pressed.
 
-**- Test_Accomodations:**
+```- Test_Accomodations:```
 
 In this case, the functionality "Accomodations" will be checked, which consists of selecting the functionality, and entering a destination, which in this case will be "Cordoba", by means of the autocomplete field, and selecting the first index in the list.
 
