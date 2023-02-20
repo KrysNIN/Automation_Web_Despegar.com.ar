@@ -31,7 +31,7 @@ This file will load the automation environment, as well as the unit test library
 
 In this file, the 12 test cases that the script will run are loaded, which are:
 
-###### Test_Home:
+###### - Test_Home:
 
 This is the opening test case, which will verify that the Webdriver opens the page, and shows the main page through the "Home" button.
 
