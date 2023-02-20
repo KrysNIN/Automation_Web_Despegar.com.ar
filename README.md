@@ -29,9 +29,10 @@ This repository can be cloned on a regular basis, to run on any local machine.
 
 This file will load the automation environment, as well as the unit test library, in order to create the test case criteria (Asserts).
 
-In this file, the 12 test cases that the script will run are loaded, which are:
+**Despegar_set.py**
 
-###### - Test_Home:
+This file will be in charge of creating the logic of all the tests contained in Despegar_main.py. In it will be contained the arguments and the webelements that are going to interact with each other, in order to reach the corresponding end-points.
 
-This is the opening test case, which will verify that the Webdriver opens the page, and shows the main page through the "Home" button.
+**Despegar_get.py**
 
+Finally, the get file will be in charge of searching for the endpoint against which the comparison of the asserts contained in the tests of the main file will be made, and thus, be able to reach the conclusion that the test passes or fails.
