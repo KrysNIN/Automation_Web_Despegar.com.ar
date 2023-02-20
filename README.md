@@ -25,7 +25,7 @@ This repository can be cloned on a regular basis, to run on any local machine.
 
 ***The project is composed of 3 main files:***
 
-###### Despegar_main.py
+###### **Despegar_main.py**
 
 This file will load the automation environment, as well as the unit test library, in order to create the test case criteria (Asserts).
 
