@@ -25,13 +25,13 @@ This repository can be cloned on a regular basis, to run on any local machine.
 
 ***The project is composed of 3 main files:***
 
-###### **Despegar_main.py**
+**Despegar_main.py**
 
 This file will load the automation environment, as well as the unit test library, in order to create the test case criteria (Asserts).
 
 In this file, the 12 test cases that the script will run are loaded, which are:
 
-**Test_Home:**
+###### Test_Home:
 
 This is the opening test case, which will verify that the Webdriver opens the page, and shows the main page through the "Home" button.
 
