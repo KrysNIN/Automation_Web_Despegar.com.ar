@@ -129,6 +129,12 @@ Afterwards, you will select the date on which you wish to request the transfer, 
 
 ## Notes:
 
-Dates entered are temporary, and should be updated over time.
+- Dates entered are temporary, and should be updated over time.
 
-This site usually has weekly changes, so frequent updates should be made to keep the functionality of the script up to date.
+- This site usually has weekly changes, so frequent updates should be made to keep the functionality of the script up to date.
+
+- Most of the web elements are selected by CSS_Selector, in order to guarantee the highest stability in terms of scripting. In some cases they were selected by XPATH.
+
+- All test cases come by default with unittest.skip, so that you can isolate them in case you want to test them individually.
+
+- The maximize_window variable was implemented in the main, so that all test cases are executed in full screen and avoid scope problems in webdriver.
