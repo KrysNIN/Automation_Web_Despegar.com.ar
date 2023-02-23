@@ -73,3 +73,9 @@ It is expected that the search of the entered parameters will find the availabil
 
 ```- test_offers:```
 
+Here you will verify that the "Offers" functionality will show the current featured offers, and select the first featured item.
+
+It will verify the corresponding steps until reaching the final result, according to the price of the selected package, showing "Total".
+
+```- test_rents:```
+
