@@ -23,8 +23,6 @@ This repository can be cloned on a regular basis, to run on any local machine.
 
 ## Files:
 
-- The script was created under the page object model paradigm.
-
 ***The project is composed of 3 main files:***
 
 
@@ -128,6 +126,8 @@ The "Transfers" case will select the entry destination, which in this case will 
 Afterwards, you will select the date on which you wish to request the transfer, and proceed to purchase the package, and then display the total price of the package purchase.
 
 ## Notes:
+
+- The script was created under the page object model paradigm.
 
 - Dates entered are temporary, and should be updated over time.
 
