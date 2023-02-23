@@ -63,7 +63,8 @@ Once you have seen the detail, look for the "Reserve" button, and verify that th
 
 In this case, webdriver will select the "Flights" functionality, and select an outbound and a return date, select tickets for two adults and three children, and select first class.
 
-Seleccionara el destino, que en este caso sera "Cordoba", y verificara que existan vuelos disponibles de acuerdo a los parametros ingresados.
+Select the destination, which in this case will be "Cordoba", and verify that there are available flights according to the parameters entered.
 
 ```- test_packages:```
 
+The test case will select the "Packages" functionality, and select the destination "New York", 
