@@ -98,3 +98,10 @@ Select the date, time, and add it to the cart, and then verify the final price w
 
 
 ```- test_getaways:```
+
+This functionality will select a destination, and check the packets available to the user, choosing the first one as the visible object.
+
+Then it will check the availability of the selected package, and if it is available, it will select it as a reservation, to return the charge detail.
+
+```- test_cars:```
+
