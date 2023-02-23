@@ -95,6 +95,8 @@ In this script we will generate the rents functionality, select the destination 
 
 It will verify that the result of the first index, "Ordenar Por", is shown.
 
+![Captura6](https://user-images.githubusercontent.com/110279710/221001569-4c5b00f1-7a98-4b48-bd48-384b93e3a6fb.JPG)
+
 - ```test_activities:```
 
 The "Activities" case will search for available activities, entering "Buenos Aires" as the destination, select the first index in the list that returns.
