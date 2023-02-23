@@ -105,3 +105,6 @@ Then it will check the availability of the selected package, and if it is availa
 
 ```- test_cars:```
 
+Here the script will select the feature "Cars", and will select as destination "Buenos Aires", then choose the date selected, and search the availability of the cars found.
+
+```- test_dsny:```
