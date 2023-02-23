@@ -23,7 +23,7 @@ This repository can be cloned on a regular basis, to run on any local machine.
 
 ## Files:
 
-The script was created under the page object model paradigm.
+- The script was created under the page object model paradigm.
 
 ***The project is composed of 3 main files:***
 
