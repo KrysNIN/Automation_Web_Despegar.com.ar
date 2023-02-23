@@ -46,12 +46,15 @@ Finally, the get file will be in charge of searching for the endpoint against wh
 ***The test cases are 12, and are composed as follows:***
 
 
-- ```test_home:```
+- <details><summary>```test_home:```</summary>
+<p>
 
 This test case is the opening one, and it will verify that the home page is displayed when the "Home" button is pressed.
 
 ![Captura Des](https://user-images.githubusercontent.com/110279710/220990775-1b599ac1-aee7-4b05-a94a-2ffaa1e11b89.JPG)
 
+</p>
+</details>
 
 - ```test_accomodations:```
 
