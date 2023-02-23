@@ -3,11 +3,6 @@
 **Automation script with Python and Selenium Webdriver, that runs through the main flow of the Despegar.com.ar page, interacting with all the main features of the site.**
 
 
-
-![Captura Des](https://user-images.githubusercontent.com/110279710/220990775-1b599ac1-aee7-4b05-a94a-2ffaa1e11b89.JPG)
-
-
-
 ## Starting:
 
 This repository can be cloned on a regular basis, to run on any local machine.
@@ -54,6 +49,8 @@ Finally, the get file will be in charge of searching for the endpoint against wh
 ```- test_home:```
 
 This test case is the opening one, and it will verify that the home page is displayed when the "Home" button is pressed.
+
+![Captura Des](https://user-images.githubusercontent.com/110279710/220990775-1b599ac1-aee7-4b05-a94a-2ffaa1e11b89.JPG)
 
 
 ```- test_accomodations:```
