@@ -115,3 +115,18 @@ Then, add the package to the shopping cart, and verify the total amount to be pa
 
 ```- test_assists:```
 
+In the case of "Assists", once the feature is selected, the destination will be entered, which in this case will be "Argentina", and an entry date and a departure date will be selected.
+
+Then, you will search for the availability of the assistances, and you will buy the first available package, and then verify the total price.
+
+```- test_transfers:```
+
+The "Transfers" case will select the entry destination, which in this case will be "Ezeiza", and then select an arrival destination, which will be "Icaro".
+
+Afterwards, you will select the date on which you wish to request the transfer, and proceed to purchase the package, and then display the total price of the package purchase.
+
+## Notes:
+
+Dates entered are temporary, and should be updated over time.
+
+This site usually has weekly changes, so frequent updates should be made to keep the functionality of the script up to date.
