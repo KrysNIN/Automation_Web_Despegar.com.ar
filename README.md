@@ -108,3 +108,10 @@ Then it will check the availability of the selected package, and if it is availa
 Here the script will select the feature "Cars", and will select as destination "Buenos Aires", then choose the date selected, and search the availability of the cars found.
 
 ```- test_dsny:```
+
+In this case, you will select the "Disney" functionality, and select an entry date, along with the number of people traveling.
+
+Then, add the package to the shopping cart, and verify the total amount to be paid.
+
+```- test_assists:```
+
