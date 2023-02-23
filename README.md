@@ -49,8 +49,21 @@ Finally, the get file will be in charge of searching for the endpoint against wh
 
 This test case is the opening one, and it will verify that the home page is displayed when the "Home" button is pressed.
 
-```- Test_Accomodations:```
+```- test_accomodations:```
 
-In this case, the functionality "Accomodations" will be checked, which consists of selecting the functionality, and entering a destination, which in this case will be "Cordoba", by means of the autocomplete field, and selecting the first index in the list.
+This test case will select the "Accomodations" functionality, and verify that an option can be selected, showing the final price of the purchase.
 
-Once the destination is selected, the flow will continue by selecting the date of entry, and the date of departure, and then search the available options.
+It will select an entry date and a departure date, then select the destination city, which in this case will be "Cordoba". It will do this by entering the input "Cordoba", and selecting the first index in the list, and will search for the products corresponding to the parameters entered.
+
+Once the search results are returned, it will use the filter to organize the results by price from lowest to highest.
+
+Once you have seen the detail, look for the "Reserve" button, and verify that the total value of the reservation package is shown.
+
+```- test_flights:```
+
+In this case, webdriver will select the "Flights" functionality, and select an outbound and a return date, select tickets for two adults and three children, and select first class.
+
+Seleccionara el destino, que en este caso sera "Cordoba", y verificara que existan vuelos disponibles de acuerdo a los parametros ingresados.
+
+```- test_packages:```
+
