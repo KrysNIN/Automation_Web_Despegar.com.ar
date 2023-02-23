@@ -45,7 +45,7 @@ Finally, the get file will be in charge of searching for the endpoint against wh
 
 ***The test cases are 12, and are composed as follows:***
 
-```- Test_Home:```
+```- test_home:```
 
 This test case is the opening one, and it will verify that the home page is displayed when the "Home" button is pressed.
 
@@ -67,4 +67,9 @@ Select the destination, which in this case will be "Cordoba", and verify that th
 
 ```- test_packages:```
 
-The test case will select the "Packages" functionality, and select the destination "New York", 
+The test case will select the "Packages" functionality, and select the destination "New York", then, select room for one person, and check the no date option, then press the search button.
+
+It is expected that the search of the entered parameters will find the availability of the package, or in case there is no availability, it will show the corresponding message.
+
+```- test_offers:```
+
