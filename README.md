@@ -45,11 +45,11 @@ Finally, the get file will be in charge of searching for the endpoint against wh
 
 ***The test cases are 12, and are composed as follows:***
 
-```- Test_Home:```
+***- Test_Home:***
 
 This test case is the opening one, and it will verify that the home page is displayed when the "Home" button is pressed.
 
-```- test_accomodations:```
+***- test_accomodations:***
 
 This test case will select the "Accomodations" functionality, and verify that an option can be selected, showing the final price of the purchase.
 
@@ -59,12 +59,12 @@ Once the search results are returned, it will use the filter to organize the res
 
 Once you have seen the detail, look for the "Reserve" button, and verify that the total value of the reservation package is shown.
 
-```- test_flights:```
+***- test_flights:***
 
 In this case, webdriver will select the "Flights" functionality, and select an outbound and a return date, select tickets for two adults and three children, and select first class.
 
 Select the destination, which in this case will be "Cordoba", and verify that there are available flights according to the parameters entered.
 
-```- test_packages:```
+***- test_packages:***
 
 The test case will select the "Packages" functionality, and select the destination "New York", 
