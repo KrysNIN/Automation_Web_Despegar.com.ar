@@ -45,9 +45,11 @@ Finally, the get file will be in charge of searching for the endpoint against wh
 
 ***The test cases are 12, and are composed as follows:***
 
+
 ```- test_home:```
 
 This test case is the opening one, and it will verify that the home page is displayed when the "Home" button is pressed.
+
 
 ```- test_accomodations:```
 
@@ -59,11 +61,13 @@ Once the search results are returned, it will use the filter to organize the res
 
 Once you have seen the detail, look for the "Reserve" button, and verify that the total value of the reservation package is shown.
 
+
 ```- test_flights:```
 
 In this case, webdriver will select the "Flights" functionality, and select an outbound and a return date, select tickets for two adults and three children, and select first class.
 
 Select the destination, which in this case will be "Cordoba", and verify that there are available flights according to the parameters entered.
+
 
 ```- test_packages:```
 
@@ -71,11 +75,13 @@ The test case will select the "Packages" functionality, and select the destinati
 
 It is expected that the search of the entered parameters will find the availability of the package, or in case there is no availability, it will show the corresponding message.
 
+
 ```- test_offers:```
 
 Here you will verify that the "Offers" functionality will show the current featured offers, and select the first featured item.
 
 It will verify the corresponding steps until reaching the final result, according to the price of the selected package, showing "Total".
+
 
 ```- test_rents:```
 
@@ -83,11 +89,12 @@ In this script we will generate the rents functionality, select the destination 
 
 It will verify that the result of the first index, "Ordenar Por", is shown.
 
+
 ```- test_activities:```
 
 The "Activities" case will search for available activities, entering "Buenos Aires" as the destination, select the first index in the list that returns.
 
 Select the date, time, and add it to the cart, and then verify the final price with "Detail of your purchase".
 
-```- test_getaways:```
 
+```- test_getaways:```
