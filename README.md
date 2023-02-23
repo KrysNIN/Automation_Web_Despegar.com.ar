@@ -63,6 +63,7 @@ Once the search results are returned, it will use the filter to organize the res
 
 Once you have seen the detail, look for the "Reserve" button, and verify that the total value of the reservation package is shown.
 
+![Captura Des2](https://user-images.githubusercontent.com/110279710/220993307-25a26054-e8b7-4f06-837e-48f296a24f07.JPG)
 
 ```- test_flights:```
 
