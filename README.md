@@ -103,6 +103,7 @@ The "Activities" case will search for available activities, entering "Buenos Air
 
 Select the date, time, and add it to the cart, and then verify the final price with "Detail of your purchase".
 
+![Captura Des7](https://user-images.githubusercontent.com/110279710/221008966-44dbd837-b0f2-408e-a75a-ca46df47aa3e.JPG)
 
 - ```test_getaways:```
 
@@ -114,11 +115,15 @@ Then it will check the availability of the selected package, and if it is availa
 
 Here the script will select the feature "Cars", and will select as destination "Buenos Aires", then choose the date selected, and search the availability of the cars found.
 
+![Captura Des8](https://user-images.githubusercontent.com/110279710/221011229-a732966d-43ef-4e9f-8502-f7258866f68f.JPG)
+
 - ```test_dsny:```
 
 In this case, you will select the "Disney" functionality, and select an entry date, along with the number of people traveling.
 
 Then, add the package to the shopping cart, and verify the total amount to be paid.
+
+![Captura9](https://user-images.githubusercontent.com/110279710/221011693-bdab9deb-2d97-4dba-b2e4-8eeb1e6c3c60.JPG)
 
 - ```test_assists:```
 
