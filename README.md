@@ -46,7 +46,7 @@ Finally, the get file will be in charge of searching for the endpoint against wh
 ***The test cases are 12, and are composed as follows:***
 
 
-- <details><summary>```test_home:```</summary>
+- <details><summary> ```test_home:``` </summary>
 <p>
 
 This test case is the opening one, and it will verify that the home page is displayed when the "Home" button is pressed.
