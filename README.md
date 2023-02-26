@@ -144,7 +144,7 @@ Afterwards, you will select the date on which you wish to request the transfer, 
 
 ## Notes:
 
-- The script was created under the page object model paradigm.
+- The script was created under the page object model pattern.
 
 - Dates entered are temporary, and should be updated over time.
 
