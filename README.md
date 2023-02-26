@@ -155,3 +155,7 @@ Afterwards, you will select the date on which you wish to request the transfer, 
 - All test cases come by default with unittest.skip, so that you can isolate them in case you want to test them individually.
 
 - The maximize_window variable was implemented in the main, so that all test cases are executed in full screen and avoid scope problems in webdriver.
+
+## License
+
+MIT
