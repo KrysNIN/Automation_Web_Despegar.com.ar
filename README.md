@@ -8,7 +8,7 @@
 This repository can be cloned on a regular basis, to run on any local machine.
 
 
-❕ ## Prerequisites:
+## ❕ Prerequisites:
 
 ***Software required to run the script:***
 
